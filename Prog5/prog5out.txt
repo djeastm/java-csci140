@@ -1,0 +1,19 @@
+Customer:       Sue Smith
+Tree Removal:   $  1050.00
+Tree Trimming:  $   325.00
+Stump Grinding: $   298.00
+Total:          $  1673.00
+
+Customer:       John Edward Doe
+Tree Removal:   $     0.00
+Tree Trimming:  $   250.00
+Stump Grinding: $     0.00
+Total:          $   250.00
+
+Customer:       George W Jones IV
+Tree Removal:   $     0.00
+Tree Trimming:  $     0.00
+Stump Grinding: $    92.00
+Total:          $    92.00
+
+Total Revenue:  $  2015.00
